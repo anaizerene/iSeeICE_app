@@ -6,17 +6,17 @@ Due to the current political state of the world that of which we live in, I took
 **Here is the general layout of the web version of the application.** Users also have the option to view the application on a mobile device.
 <br/>
 
-/to view an image, copy the link and paste in your web browser.
+to view an image, copy the link and paste in your web browser.
 <br/>
 
-/on mobile devices, you will be prompted to "download" the app by selecting the iOS APP STORE icon on the bottom right corner. As of June 2025, this application is not available on the app store. However, you can bookmark the link to the online version of the app and save it to your mobile device's Home Screen. This will make it look like an installed app.
+on mobile devices, you will be prompted to "download" the app by selecting the iOS APP STORE icon on the bottom right corner. As of June 2025, this application is not available on the app store. However, you can bookmark the link to the online version of the app and save it to your mobile device's Home Screen. This will make it look like an installed app.
 <br/>
 
-HOME-LANDING PAGE<br/>
+**HOME-LANDING PAGE<br/>
 REPORTING PAGE<br/>
 FORUM<br/>
-_POST DETAILS<br/>
+POST DETAILS<br/>
 LOG IN/SIGN UP<br/>
-_ACCOUNT SETTINGS<br/>
-_LOGGING IN AND VERIFICATION<br/>
-TERMS OF SERVICE<br/>
+ACCOUNT SETTINGS<br/>
+LOGGING IN AND VERIFICATION<br/>
+TERMS OF SERVICE**<br/>
