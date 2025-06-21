@@ -6,9 +6,9 @@ Due to the current political state of the world that of which we live in, I took
 
 HOME-LANDING PAGE<br/>
 REPORTING PAGE<br/>
->>FORUM
->POST DETAILS
->>LOG IN/SIGN UP
->>ACCOUNT SETTINGS
->LOGGING IN AND VERIFICATION
->>TERMS OF SERVICE
+FORUM<br/>
+POST DETAILS<br/>
+LOG IN/SIGN UP<br/>
+ACCOUNT SETTINGS<br/>
+LOGGING IN AND VERIFICATION<br/>
+TERMS OF SERVICE<br/>
