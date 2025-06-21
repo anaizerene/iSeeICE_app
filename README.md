@@ -8,7 +8,7 @@ Due to the current political state of the world that of which we live in, I took
 
 
 >HOME-LANDING PAGE
->REPORTING PAGE
+>>REPORTING PAGE
 >FORUM
 >>POST DETAILS
 >LOG IN/SIGN UP
